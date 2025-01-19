@@ -1,20 +1,20 @@
 {
-  "name": "koishi-plugin-rss-owl",
+  "name": "koishi-plugin-rss-sc-personal-use",
   "description": "",
-  "version": "4.8.1",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/borraken/koishi-plugin-rss-owl.git"
+    "url": "git+https://github.com/YomiIsayama/koishi-plugin-rss-owl/tree/main"
   },
   "files": [
     "lib"
   ],
   "koishi": {
     "description": {
-      "zh": "rss订阅器,可以订阅 新闻,早报,github等内容"
+      "zh": "rss自用"
     }
   },
   "license": "MIT",
